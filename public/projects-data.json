@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Quire",
+      "description": "WebbApplikation för anteckningar gjord i HTML, CSS och Javascript. Projektet var en del av kursen Arbetsmetodik där vi delades upp och jobbade i team. Vi fick jobba Agilt enligt SCRUM.",
+      "path": "http://cv.joelbeats.com/images/quire.png",
+      "link": "https://github.com/cr4y0n/fe20tp1_pergament"
+    },
+    {
+      "id": 2,
+      "title": "Addictions",
+      "description": "Den här hemsidan som handlar om olika typer av beroenden utvecklade jag i HTML, CSS och Javascript som Individuellt projekt och ingår i utbildningen jag går på Kungliga YrkesHögskolan.",
+      "path": "http://cv.joelbeats.com/images/addictions.png",
+      "link": "https://github.com/joelbeats/addictions"
+    },
+    {
+      "id": 3,
+      "title": "BMI Kalkylator",
+      "description": "Det här är en Applikation utvecklad av mig i Flutter som du kan räkna ut ditt (Body Mass Index) BMI -värde och sedan få exempel på en personlig tränare som skulle passa dig",
+      "path": "https://joelbeats.com/wp-content/uploads/2020/02/bmi-768x768.jpg",
+      "link": "https://github.com/joelbeats/bmi_calculator"
+    },
+    {
+      "id": 4,
+      "title": "Quizzler",
+      "description": "Det här är en MobilApplikation med ett quiz gjord i Flutter genom en kurs på Udemy.",
+      "path": "https://joelbeats.com/wp-content/uploads/2020/01/quizzler-1024x1024.jpg",
+      "link": "https://github.com/joelbeats/quizzler"
+    }
+  ]
+}
